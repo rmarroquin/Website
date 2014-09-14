@@ -928,6 +928,7 @@ figure {
 }
 img {
   vertical-align: middle;
+  horizontal-align: middle;
 }
 .img-responsive,
 .thumbnail > img,
